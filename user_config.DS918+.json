@@ -7,7 +7,9 @@
   },
   "synoinfo": {
     "supportsystemperature": "no",
-    "supportsystempwarning": "no"
+    "supportsystempwarning": "no",
+    "internalportcfg":"0x1ffff",
+    "usbportcfg":"0x20000"
   },
   "ramdisk_copy": {}
 }
